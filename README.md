@@ -5,7 +5,7 @@ I build things, break them, and (usually) fix them before anyone notices.
 
 --
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlommoco&layout=compact&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlommoco&layout=compact&theme=gruvbox)
 
 --
 
