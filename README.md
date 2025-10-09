@@ -1,4 +1,4 @@
-# Hi there, I'm Trym Marco👋
+# Hi there👋
 
 Welcome to my GitHub corner — part workshop, part archive, part "oops I broke it again."  
 I build things, break them, and (usually) fix them before anyone notices.  
