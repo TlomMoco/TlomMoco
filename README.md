@@ -6,10 +6,7 @@ I build things, break them, and (usually) fix them before anyone notices.
 ---
 
 ## 📊 Some Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tlommoco&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlommoco&layout=compact" height="150"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlommoco&show_icons=true&theme=default)  
 
 ---
 
@@ -17,7 +14,6 @@ I build things, break them, and (usually) fix them before anyone notices.
 - LinkedIn: [https://www.linkedin.com/in/trymmarco/]
 - Or right here on GitHub
 
----
 
 ✨ Thanks for stopping by!   
 <!--
