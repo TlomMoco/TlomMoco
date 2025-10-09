@@ -3,11 +3,11 @@
 Welcome to my GitHub corner — part workshop, part archive, part "oops I broke it again."  
 I build things, break them, and (usually) fix them before anyone notices.  
 
---
+----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlommoco&layout=compact&theme=gruvbox)
 
---
+----
 
 ## 📫 Where to Find Me 
 - LinkedIn: [https://www.linkedin.com/in/trymmarco/]
