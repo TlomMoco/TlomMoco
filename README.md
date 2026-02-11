@@ -3,7 +3,7 @@
 Welcome to my GitHub corner — part workshop, part archive, part "oops I broke it again."  
 I build things, break them, and (usually) fix them before anyone notices.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlommoco&layout=compact&theme=gruvbox&hide_progress=true&card_width=1000&cache_seconds=86400)
+<img width="1000" src="https://raw.githubusercontent.com/tlommoco/tlommoco/main/metrics.languages.svg" />
 [![My Skills](https://skillicons.dev/icons?i=py,ts,js,react,angular,nodejs,aws)](https://skillicons.dev)
 
 
